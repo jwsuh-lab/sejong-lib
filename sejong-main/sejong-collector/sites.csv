@@ -1,0 +1,416 @@
+﻿No,기관코드,수정전 기관명,기관명,국가코드,국가,유형,수정전 기관명(한글명),기관명(한글명),,기관명(약어),수정전 수집url,수집url,비고,BRM대분류,연간 수집 예상 수량,수집제외,기관명(기타1),기관명(기타2),기관명(기타3),2025년 수집 건수,현재사용
+1,Z00001,,Norwegian Agency for Development Cooperation,NO,노르웨이,정부기관,,개발협력청,,NORAD,,https://www.norad.no/en/toolspublications/publications/,Home > tools > Publications on Norwegian development aid,"금융, 사회복지, 통상, 중소기업, 교육",17,,,,,1,
+2,Z00002,,Fridtjof Nansen Institute,NO,노르웨이,연구기관,,난센 연구소,,FNI,,https://www.fni.no/publications/,home > publications,"환경, 과학기술",35,Commentary articles,,,,13,
+3,Z00003,,Norwegian Polar Institute,NO,노르웨이,연구기관,,극지연구소,,NPI,,https://app.cristin.no/search.jsf?type=result&filter=person_institution_idfacet~7466&sort=PUBL_YEAR_DESC,home > archive > publications,환경,9,,,,,,X
+4,Z00004,,Norwegian Institute for Air Research,NO,노르웨이,연구기관,,대기연구소,,NILU,,https://www.nilu.com/publications/,home > publications,환경,9,produck,Norsk institutt for luftforskning,,,57,X
+5,Z00005,,Peace Research Institute Oslo,NO,노르웨이,연구기관,,오슬로국제평화연구소,,PRIO,,https://www.prio.org/publications,home > menu > publications,"국방, 외교",35,,,,,38,
+6,Z00014,,U.S. Government Accountability Office,US,미국,정부기관,,감사원,,GAO,,https://www.gao.gov/reports-testimonies,home > reports & testimonies,금융,35,,,,,21,X
+7,Z00015,,U.S. Department of Education,US,미국,정부기관,,교육부,,DOE,,https://nces.ed.gov/pubsearch/,home > menu > publications & products,교육,35,"video, brochue",,,,,
+8,Z00016,,Institute of Education Sciences,US,미국,정부기관,,교육부 교육과학연구소,,IES,,https://ies.ed.gov/pubsearch/,home > menu > publications & products search,교육,35,"video, brochue",,,,,
+9,Z00017,,U.S. Department of Transportation ,US,미국,정부기관,,교통부,,USDOT,,https://maritime.dot.gov/data-reports/data-statistics/data-statistics,home > data & reports,교통 및 물류,9,,United States Department of Transportation,,,,X
+10,Z00018,,Bureau of Transportation Statistics,US,미국,정부기관,,교통부 교통통계청,,BTS,,https://www.bts.gov/archive_publications,home > Statistical product and data > A-Z Index > A-Z index of BTS Publications,교통 및 물류,9,,,,,5,X
+11,Z00019,,Federal Transit Administration,US,미국,정부기관,,교통부 연방교통청,,FTA,,https://www.transit.dot.gov/research-innovation/fta-reports-and-publications,home > research & innovation > research & reports > reports and publications,교통 및 물류,9,,,,,,X
+12,Z00020,,Federal Railroad Administration,US,미국,정부기관,,교통부 연방철도청,,FRA,,https://railroads.dot.gov/elibrary-search,home > fra elibrary,교통 및 물류,35,,,,,3,
+13,Z00021,,National Science Foundation,US,미국,정부기관,,국립과학재단,,NSF,,https://www.nsf.gov/publications/,,과학기술,9,,,,,3,X
+14,Z00022,,National Center for Education Statistics,US,미국,정부기관,,국립교육통계센터,,NCES,,https://nces.ed.gov/pubSearch/,home > menu > publications & products,교육,9,"video, brochue",,,,,X
+15,Z00023,,National Institute for Occupational Safety and Health,US,미국,정부기관,,국립산업안전보건연구소,,NIOSH ,,https://www.cdc.gov/publications/,home > more > publications,"보건, 교육",9,,,,,6,X
+16,Z00024,,National Endowment for the Arts,US,미국,정부기관,,국립예술기금,,NEA ,,https://www.arts.gov/about/publications,home > about > publications,문화체육관광,9,,,,,4,X
+17,Z00025,,National Endowment for the Humanities,US,미국,정부기관,,국립인문기금,,NEH ,,https://www.neh.gov/search?keywords=,home > Humanities Magazine > Browse all issues ,"문화체육관광
+일반공공행정",9,,,,,,X
+18,Z00026,,NOAA National Severe Storms Laboratory ,US,미국,정부기관,,국립해양대기청 국립재해기상연구소 ,,NSSL,,https://nssl.noaa.gov/publications/advanced.php,home > people > publications,환경,9,,,,,,X
+19,Z00027,,U.S. Department of State ,US,미국,정부기관,,국무부 ,,DOS,,https://www.state.gov/,home > policy issues,"국방
+일반공공행정",35,"article
+(PDF 없음)",,,,,
+20,Z00028,,U.S. Department of Defense,US,미국,정부기관,,국방부,,DOD,,https://www.defense.gov/News/Publications/,home > news > publications,국방 ,35,,,,,,
+21,Z00029,,U.S. Agency for International Development,US,미국,정부기관,,국제개발처,,USAID,,https://www.usaid.gov/reports-and-data,home > reports and data,사회복지,9,,,,,2,X
+22,Z00030,,U.S. Department of Homeland Security,US,미국,정부기관,,국토안보부,,DHS,,https://www.dhs.gov/publications,home > news > publications library,"교통 및 물류, 공공질서 및 안전",9,blog,,,,,X
+23,Z00031,U.S. Computer Emergency Readiness Team,Cybersecurity and Infrastructure Security Agency,US,미국,정부기관,국토안보부 컴퓨터 긴급대응팀,사이버보안 및 인프라보안국,US-CERT,CISA,https://www.usa.gov/features,https://www.cisa.gov/resources-tools/resources,home > for the media > features,"재정.세재.금융
+보건
+교육",35,"article
+(PDF 없음)",,,,,
+24,Z00032,,U.S. Global Change Research Program,US,미국,정부기관,,기후변화연구프로그램,,GCRP,,https://www.globalchange.gov/browse/reports,home > browse > reports library,환경,9,,,,,,X
+25,Z00033,,U.S. Department of Labor,US,미국,정부기관,,노동부,,DOL,,https://www.dol.gov/guidance,home > labor department > guidance,사회복지,9,,,,,,X
+26,Z00034,,"U.S. Department of Labor, Employee Benefits Security Administration",US,미국,정부기관,,노동부  복리후생보장관리국,,EBSA,,https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications#,home > resources > publications,사회복지,9,,,,,,X
+27,Z00035,,"U.S. Department of Labor, Employment & Training Administration",US,미국,정부기관,,노동부 고용훈련관리국,,ETA,,https://wdr.doleta.gov/research/search.cfm?CFID=65292815&CFTOKEN=19977786,home > resource library > research publications,사회복지,35,,,,,,
+28,Z00036,,"U.S. Department of Labor, Bureau of Labor Statistics",US,미국,정부기관,,노동부 노동통계국,,BLS,,https://www.bls.gov/opub/,home > publications,사회복지,9,,,,,2,X
+29,Z00037,,U.S. Department of Agriculture,US,미국,정부기관,,농무부,,DOA,,https://www.usda.gov/oig/reports,home > our agency > office of inspector general (OIG) > reports,농림,9,,,,,11,X
+30,Z00038,,USDA Economic Research Service,US,미국,정부기관,,농무부 경제조사실,,ERS,,https://www.ers.usda.gov/publications/,home > publications,농림,35,,,,,,
+31,Z00039,,USDA National Agricultural Statistics Service,US,미국,정부기관,,농무부 국립농업통계원,,NASS,,https://www.nass.usda.gov/Publications/index.php,home > publications,농림,9,,,,,,X
+32,Z00040,,USDA Animal and Plant Health Inspection Service ,US,미국,정부기관,,농무부 동식물검역서비스,,APHIS,,https://www.aphis.usda.gov/aphis/newsroom/publications,home > newsroom > publications,농림,9,bruchue,,,,46,X
+33,Z00041,,USDA Food and Nutrition Service,US,미국,정부기관,,농무부 식품영양서비스,,FNS,,https://www.fns.usda.gov/resources,,농림,9,,,,,,X
+34,Z00042,,U.S. Trade and Development Agency,US,미국,정부기관,,무역개발청,,TDA,,https://ustda.gov/reports-and-resources/,home > reports and resources,"산업, 통상, 중소기업",9,,,,,,X
+35,Z00043,,Office of United States Trade Representative,US,미국,정부기관,,무역대표부,,USTR,,https://ustr.gov/about-us/policy-offices/press-office/reports-and-publications,home > about us > policy offices / press office > reports and publications,"산업, 통상, 중소기업",9,"Blogs, Op-eds",,,,,X
+36,Z00044,,The White House,US,미국,정부기관,,백악관,,,,https://www.whitehouse.gov/briefing-room/,home > briefing room,"보건
+환경
+일반공공행정
+통일.외교",35,"article
+(PDF 없음)",,,,,
+37,Z00045,,White House Office of Science and Technology Policy,US,미국,정부기관,,백악관 과학기술국,,OSTP,,https://www.whitehouse.gov/ostp/reports/,home > briefing room > Reports & Documents,일반공공행정,9,,,,,,X
+38,Z00046,,National Institute of Corrections,US,미국,정부기관,,법무부 국립교정연구소,,NIC,,https://nicic.gov/all-library-items,home > NIC library,일반공공행정,9,,,,,1,X
+39,Z00047,,National Institute of Justice,US,미국,정부기관,,법무부 법무연구소,,NIJ,,https://nij.ojp.gov/library/publications/list,home > library multimedia > publications list,일반공공행정,35,,,,,,
+40,Z00048,,"U.S. Department of Justice, Bureau of Justice Statistics",US,미국,정부기관,,법무부 법무통계국,,BJS,,https://bjs.ojp.gov/library,home > publications,일반공공행정,17,,,,,12,
+41,Z00049,,Office of Juvenile Justice and Delinquency Prevention,US,미국,정부기관,,법무부 청소년예방국,,OJJDP,,https://ojjdp.ojp.gov/library/publications/list,home > library multimedia > publications list,일반공공행정,9,Newsletters,,,,6,X
+42,Z00050,,"Office of Planning, Research and Evaluation",US,미국,정부기관,,보건후생부 아동가족국 연구 및 평가 기획실,,OPRE,,https://www.acf.hhs.gov/acf-data-research,home > Data & Research  or > Resources,"일반공공행정
+재정. 세재. 금융",35,,,,,59,
+43,Z00051,,Substance Abuse and Mental Health Services Administration,US,미국,정부기관,,보건후생부 약물남용및정신건강관리청,,SAMHSA,,https://www.samhsa.gov/,home > publication ,보건 ,35,Flyer,,,,24,
+44,Z00052,,U.S. Department of Veterans Affairs,US,미국,정부기관,,보훈청,,VA,,https://www.va.gov/vapubs/,home > about VA > publications,국방,9,,,,,,X
+45,Z00053,,U.S. Department of Commerce,US,미국,정부기관,,상무부,,DOC,,https://www.commerce.gov/data-and-reports/reports,home > data and reports > reports,일반공공행정,9,,,,,,X
+46,Z00054,,National Institute of Standards and Technology,US,미국,정부기관,,상무부 표준기술연구소,,NIST,,https://www.nist.gov/publications,home > publications,과학기술,35,,,,,370,
+47,Z00055,,International Trade Administration,US,미국,정부기관,,상무부 국제무역청,,ITA,,https://www.trade.gov/research-center,home > research center,"산업, 통상, 중소기업",9,,,,,,X
+48,Z00056,,Select USA,US,미국,정부기관,,상무부 국제무역청 외국인 투자유치기관,,,,https://www.selectusa.gov/reports-and-publications,home > resource > reports and publications,"산업, 통상, 중소기업",9,,,,,,X
+49,Z00057,,U.S. Bureau of Economic Analysis,US,미국,정부기관,,상무부경제분석국,,BEA,,https://www.bea.gov/research/papers,home > research > papers,재정.세재. 금융,17,,,,,12,
+50,Z00058,,U.S. Food and Drug Administration,US,미국,정부기관,,식품의약품안전청,,FDA,,https://www.fda.gov/regulatory-information/search-fda-guidance-documents#guidancesearch,home > menu > FDA Guidance Documents,보건 ,35,,,,,41,
+51,Z00059,,U.S. Department of Energy,US,미국,정부기관,,에너지부,,DOE,,https://www.energy.gov/search/site?keywords=,home > search,환경,35,blog,,,,,
+52,Z00060,,U.S. Energy Information Administration,US,미국,정부기관,,에너지정보국,,EIA,,https://www.eia.gov/reports/,home > tools > all report & Publications,환경,35,,,,,,
+53,Z00061,,Federal Interagency Forum on Child and Family Statistics,US,미국,정부기관,,연방아동·가족통계통합포럼,,,,https://www.childstats.gov/pubs/,home > publications,사회복지,9,,,,,,X
+54,Z00062,,Federal Deposit Insurance Corporation,US,미국,정부기관,,연방예금보험공사,,FDIC,,"https://www.fdic.gov/resources/publications/
+
+https://www.fdic.gov/analysis/","home > source > publications
+
+home > analysis",금융,9,,,,,,X
+55,Z00063,,Federal Reserve Board of Governors,US,미국,정부기관,,연방준비제도이사회,,FRB,,https://www.federalreserve.gov/econres.htm,home > economic research,금융,35,,,,,120,
+56,Z00064,,"U.S. Army War College, Strategic Studies Institute",US,미국,정부기관,,육군대학 전략연구소,,SSI,,https://ssi.armywarcollege.edu/pubs/,home > research & commentary,국방,9,,,,,1,X
+57,Z00065,,Congressional Budget Office,US,미국,정부기관,,의회예산처,,CBO,,https://www.cbo.gov/search,home > search,"재정, 세제, 금융",35,"Podcast, Graphic , blog",,,,12,
+58,Z00066,,U.S. Immigration and Customs Enforcement ,US,미국,정부기관,,이민세관집행국,,ICE,,https://www.dhs.gov/publications,home > news > publication library ,"공공질서 및 안전
+교통. 물류",35,,,,,,
+59,Z00067,,U.S. Department of the Treasury,US,미국,정부기관,,재무부,,DOT,,https://home.treasury.gov/data/troubled-assets-relief-program/reports/reports,home > data > troubled assets relief program,"재정, 세제, 금융",35,통계자료만 있음,,,,,
+60,Z00068,,"U.S. Department of the Treasury, Financial Crimes Enforcement Network",US,미국,정부기관,,재무부 금융정보분석원,,FinCEN,,https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets,home > resources > advisories/bulletins/fact-sheets,"재정, 세재, 금융",9,Notices,,,,2,X
+61,Z00069,,U.S. Department of Housing and Urban Development's Office of Policy Development and Research,US,미국,정부기관,,주택도시개발부 정책개발연구실,,PD&R,,https://www.huduser.gov/portal/research/home.html,home > research & publications,지역개발,9,,,,,4,X
+62,Z00070,,Centers for Disease Control and Prevention,US,미국,정부기관,,질병통제예방센터,,CDC,,https://www.cdc.gov/publications/,home > more > publications,보건,9,,,,,,X
+63,Z00071,,U.S. Census Bureau,US,미국,정부기관,,통계국,,,,"https://www.census.gov/library/working-papers.html
+
+https://www.census.gov/library/publications.html
+
+","home > library > working papers
+
+home > library > publications","산업, 통상, 중소기업, 환경, 과학기술",17,,,,,90,
+64,Z00072,Department of the Interior: Mineral Management Service,Bureau of Safety and Environmental Enforcement,US,미국,정부기관,해양에너지관리국,안전환경집행국,MMS,BSEE,,https://www.doi.gov/elips/browse,home > Guidance Documents,"환경
+산업.통상.중소기업",9,,,,,,X
+65,Z00073,,Environmental Protection Agency,US,미국,정부기관,,환경보호청,,EPA,,https://www.epa.gov/research,,환경,9,,,,,,X
+66,Z00074,,Center for Economic and Policy Research,US,미국,연구기관,,경제정책연구센터,,CEPR,,https://cepr.net/publications/,home > more > publications,"금융, 산업, 통상, 중소기업",35,,,,,,
+67,Z00075,,National Center for Policy Analysis,US,미국,연구기관,,국립정책분석센터,,NCPA,,Home으로 연결되는 URL을 찾기 어려움 ,,접속 X,9,,,,,,X
+68,Z00076,,Center for Strategic and International Studies,US,미국,연구기관,,국제전략문제연구소,,CSIS,,https://www.csis.org/analysis?,home > analysis,"금융, 산업, 통상, 중소기업, 환경",35,blog,,,,28,
+69,Z00077,,East-West Center,US,미국,연구기관,,동서문화연구소,,EWC,,https://www.eastwestcenter.org/publications/search/,home > analysis > publications,문화체육관광,17,,,,,2,
+70,Z00078,,Mathematica Policy Research,US,미국,연구기관,,매스매티카 정책연구소,,MPR,,https://www.mathematica.org/search#sort=relevancy,home > search,"환경, 사회복지",35,blog,,,,4,
+71,Z00079,,Economic Policy Institute,US,미국,연구기관,,미 경제정책연구소,,EPI,,https://www.epi.org/publications/,home > publications,"환경, 사회복지, 통상",17,blog,,,,35,
+72,Z00080,,American Enterprise Institute,US,미국,연구기관,,미 기업연구소,,AEI,,https://www.aei.org/research-products/,home > research products,"산업, 통상, 중소기업",35,speech,,,,95,
+73,Z00081,,Institute for Policy Studies,US,미국,연구기관,,미국정책연구소,,IPS,,https://ips-dc.org/ips-post-type/reports/,home > our work > report,"통상, 사회복지",9,,,,,7,X
+74,Z00082,,Brookings Institution,US,미국,연구기관,,브루킹스연구소,,,,https://www.brookings.edu/search/?s=,home > search,"보건, 과학기술, 사회복지",35,blog,,,,27,
+75,Z00083,,Center for a New American Security,US,미국,연구기관,,신미국안보센터,,CNAS,,https://www.cnas.org/reports,home > research > reports,"국방, 외교",35,,,,,27,
+76,Z00084,,The National Bureau of Asian Research,US,미국,연구기관,,아시아정책연구소,,NBR,,https://www.nbr.org/publications/,home > publications,과학기술,17,Q&A,,,,6,
+77,Z00086,,Carnegie Endowment for International Peace,US,미국,연구기관,,카네기 평화연구소,,CEIP,,https://carnegieendowment.org/publications/,home > publications,"국방, 외교",9,Q&A,,,,15,X
+78,Z00087,,Cato Institute,US,미국,연구기관,,케이토연구소,,,,https://www.cato.org/publications,home > publications,"환경, 과학기술",35,,,,,51,
+79,Z00088,,Peterson Institute for International Economics,US,미국,연구기관,,피터슨 국제경제연구소,,PIIE,,https://www.piie.com/research/publications,home > research > publications,"환경, 금융",9,,,,,29,X
+80,Z00089,,Heritage Foundation,US,미국,연구기관,,헤리티지 재단,,,,https://www.heritage.org/search?contains=,home > search,"환경, 외교, 통상, 사회복지",35,,,,,109,
+81,Z00090,,Hoover Institution,US,미국,연구기관,,후버연구소,,,,https://www.hoover.org/publications,home > publications,"환경, 일반공공행정",9,,,,,16,X
+82,Z00091,,"Government Offices of Sweden, Ministry of Employment",SW,스웨덴,정부기관,,고용노동부,,,,https://www.government.se/reports/,home > documents & publications > reports,"산업, 사회복지",9,,"Ministry of Employment, GOV.SWEDEN",,,1,X
+83,Z00092,,"Government Offices of Sweden, Ministry of Education and Research",SW,스웨덴,정부기관,,교육연구부,,,,https://www.government.se/reports/,home > documents & publications > reports,교육,9,,"Ministry of Education and Research, GOV.SWEDEN",,,,X
+84,Z00093,,"Government Offices of Sweden, Ministry of Defence",SW,스웨덴,정부기관,,국방부,,,,https://www.government.se/reports/,home > documents & publications > reports,국방,9,,,,,,X
+85,Z00094,,"Government Offices of Sweden, Ministry of Enterprise and Innovation",SW,스웨덴,정부기관,,기업혁신부,,,,https://www.government.se/reports/,home > documents & publications > reports,"통상, 중소기업",9,,,,,,X
+86,Z00095,,"Government Offices of Sweden, Ministry of Culture",SW,스웨덴,정부기관,,문화부,,,,https://www.government.se/reports/,home > documents & publications > reports,문화체육관광,9,,,,,,X
+87,Z00096,,"Government Offices of Sweden, Ministry of Justice",SW,스웨덴,정부기관,,법무부,,,,https://www.government.se/reports/,home > documents & publications > reports,일반공공행정,9,,,,,,X
+88,Z00097,,"Government Offices of Sweden, Ministry of Health and Social Affairs",SW,스웨덴,정부기관,,보건복지부,,,,https://www.government.se/reports/,home > documents & publications > reports,보건,9,,,,,,X
+89,Z00098,,"Government Offices of Sweden, Ministry for Foreign Affairs",SW,스웨덴,정부기관,,외교부,,,,https://www.government.se/reports/,home > documents & publications > reports,외교,9,,,,,,X
+90,Z00099,,"Government Offices of Sweden, Ministry of Finance ",SW,스웨덴,정부기관,,재무부,,,,https://www.government.se/reports/,home > documents & publications > reports,"재정, 세재, 금융",9,,,,,,X
+91,Z00100,,"Government Offices of Sweden, Prime Minister's Office ",SW,스웨덴,정부기관,,총리실,,,,https://www.government.se/reports/,home > documents & publications > reports,"통상, 사회복지",9,,,,,,X
+92,Z00101,,"Government Offices of Sweden, Ministry of the Environment and Energy",SW,스웨덴,정부기관,,환경에너지부,,,,https://www.government.se/reports/,home > documents & publications > reports,환경,9,,,,,,X
+93,Z00102,,Stockholm International Peace Research Institute,SW,스웨덴,연구기관,,스톡홀름 국제평화연구소,,SIPRI,,https://www.sipri.org/publications,home > publications,"국방, 외교",9,,,,,27,X
+94,Z00103,,Singapore Economic Development Board,SI,싱가포르,정부기관,,경제개발청,,EDB,,https://www.edb.gov.sg/en/business-insights/market-and-industry-reports.html,home > business insights > market and industry reports,"환경, 과학기술",9,PDF다운로드 시 로그인 필요,,,,8,X
+95,Z00104,,Inland Revenue Authority of Singapore,SI,싱가포르,정부기관,,국세청,,IRAS,,https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/annual-reports,home > who we are > what we do > annual reports and publications > annual reports,"재정, 세재, 금융",9,,,,,,X
+96,Z00105,Singapore Government Technology Agency,Government Technology Agency,SI,싱가포르,정부기관,기술청,정부기술청,,GovTech ,,https://www.tech.gov.sg/media/corporate-publications/,home > media - corporate publications,"과학기술
+재정.세재.금융",9,,,,,,X
+97,Z00106,,"Ministry of Culture, Community and Youth, Singapore",SI,싱가포르,정부기관,,문화지역사회청소년부,,MCCY,,https://www.mccy.gov.sg/about-us/news-and-resources,home > about us > news & resources,문화체육관광,9,,,,,,X
+98,Z00107,,"Ministry of Health, Singapore",SI,싱가포르,정부기관,,보건부,,MOH,,https://www.moh.gov.sg/resources-statistics,home > for public > resources & statistics ,보건 ,9,,,,,,X
+99,Z00108,,"Ministry of Foreign Affairs, Singapore",SI,싱가포르,정부기관,,외무부,,MFA,,"https://www.mfa.gov.sg/Newsroom/Resources/Experience-Singapore
+
+https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos",,통일. 외교,9,,,,,,X
+100,Z00109,,"Ministry of Manpower, Singapore",SI,싱가포르,정부기관,,인력부,,MOM,,https://stats.mom.gov.sg/Publications,home > publications,사회복지,9,,,,,,X
+101,Z00110,,"Info-communications Media Development Authority, Singapore",SI,싱가포르,정부기관,,정보통신미디어개발청,,IMDA,,https://www.imda.gov.sg/,,과학기술,9,,,,,,X
+102,Z00111,Ministry of Communications and Information,Ministry of Digital Development and Information,SI,싱가포르,정부기관,정보통신부,디지털발전정보부,MCI,MDDI,https://www.mci.gov.sg/public-consultations/open,https://www.mddi.gov.sg/newsroom,,과학기술,9,,,,,,X
+103,Z00112,,Monetary Authority of Singapore,SI,싱가포르,정부기관,,통화청,,MAS,,https://www.mas.gov.sg/publications?,home > publications,"재정, 세재, 금융",17,,,,,,
+104,Z00113,,"UK Ministry of Housing, Communities and Local Government",GB,영국,정부기관,공동체지방자치부,"주택, 지역사회 및 지방자치부",,MHCLG,,https://www.gov.uk/search/research-and-statistics,home > Documents > see all research and statistics,"일반공공행정, 사회복지",35,,,,,9,
+105,Z00114,,UK Government Office for Science,GB,영국,정부기관,,과학청,,GO-Science,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=government-office-for-science&parent=government-office-for-science,home > Documents > see all research and statistics,과학기술,9,,,,,1,X
+106,Z00115,,UK Department for Education ,GB,영국,정부기관,,교육부,,DfE,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-education&parent=department-for-education,home > Documents > see all research and statistics,교육,35,,,,,42,
+107,Z00116,,UK Department for Transport,GB,영국,정부기관,,교통부,,DfT,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-transport&parent=department-for-transport,home > Documents > see all research and statistics,교통 및 물류,35,,,,,26,
+108,Z00117,,UK Ministry of Defence,GB,영국,정부기관,,국방부,,MOD,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=ministry-of-defence&parent=ministry-of-defence,home > Documents > see all research and statistics,국방,17,,,,,,
+109,Z00118,UK Department for International Development,"UK Foreign, Commonwealth & Development Office",GB,영국,정부기관,국제개발부,외교영연방개발부,DID,FCDO,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-international-development&parent=department-for-international-development,home > Documents > see all research and statistics,"사회복지, 교육",35,,,,,,
+110,Z00119,UK Department for Business Innovation & Skills,UK Department for Business and Trade,GB,영국,정부기관,기업혁신기술부,기업통상부,,DBT,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-business-innovation-skills&parent=department-for-business-innovation-skills,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-business-and-trade&parent=department-for-business-and-trade,home > Documents > see all research and statistics,"중소기업, 과학기술",9,,,,,,X
+111,Z00120,,UK Home Office,GB,영국,정부기관,,내무부 ,,,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=home-office&parent=home-office,home > Documents > see all research and statistics,"일반공공행정, 사회복지",9,,,,,,X
+112,Z00121,,UK Department for Work and Pensions,GB,영국,정부기관,,노동연금부,,DWP,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-work-pensions&parent=department-for-work-pensions,home > Documents > see all research and statistics,"사회복지, 일반공공행정",17,,,,,,
+113,Z00122,UK Department for Culture Media and Sport,"UK Department for Culture, Media and Sport",GB,영국,정부기관,,문화미디어체육부,,DCMS,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-digital-culture-media-sport&parent=department-for-digital-culture-media-sport,home > Documents > see all research and statistics,문화체육관광,17,,,,,,
+114,Z00123,,UK Ministry of Justice,GB,영국,정부기관,,법무부,,MoJ,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=ministry-of-justice&parent=ministry-of-justice,home > Documents > see all research and statistics,일반공공행정,9,,,,,21,X
+115,Z00124,,UK Department of Health,GB,영국,정부기관,,보건부,,DOH,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-of-health-and-social-care&parent=department-of-health-and-social-care,home > Documents > see all research and statistics,보건,17,,,,,11,
+116,Z00125,,UK Government Actuary's Department,GB,영국,정부기관,,보험계리국,,GAD,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=government-actuarys-department&parent=government-actuarys-department,home > Documents > see all research and statistics,사회복지,9,,,,,3,X
+117,Z00126,,UK Northern Ireland Office,GB,영국,정부기관,,북아일랜드부,,NIO,,https://www.gov.uk/search/research-and-statistics,,"산업, 통상, 중소기업
+환경 
+과학기술",9,,,,,54,X
+118,Z00127,UK Department of Energy and Climate Change,UK Department for Energy Security and Net Zero,GB,영국,정부기관,에너지기후변화부,에너지안보넷제로부,,DESNZ,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-of-energy-climate-change&parent=department-of-energy-climate-change,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-energy-security-and-net-zero&parent=department-for-energy-security-and-net-zero,home > Documents > see all research and statistics,환경,9,16년도 이후로 업로드 중지,,,,,X
+119,Z00128,UK Foreign and Commonwealth Office,"UK Foreign, Commonwealth & Development Office",GB,영국,정부기관,외교연방부,외교영연방개발부,FCO,FCDO,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=foreign-commonwealth-office&parent=foreign-commonwealth-office,home > Documents > see all research and statistics,외교,9,,,,,,X
+120,Z00129,,UK HM Treasury,GB,영국,정부기관,,재무부,,HMT,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=hm-treasury&parent=hm-treasury,home > Documents > see all research and statistics,재정,9,자료 형식 부적합,,,,15,X
+121,Z00130,,UK Government Equalities Office,GB,영국,정부기관,,평등부,,GEO,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=government-equalities-office&parent=government-equalities-office,home > Documents > see all research and statistics,사회복지,9,,,,,,X
+122,Z00131,,UK Department for Environment Food and Rural Affairs,GB,영국,정부기관,,환경식품농촌부,,Defra,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-environment-food-rural-affairs&parent=department-for-environment-food-rural-affairs,home > Documents > see all research and statistics,"농림, 해양수산",9,,,,,,X
+123,Z00132,,UK Environment Agency,GB,영국,정부기관,,환경청,,EA,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=environment-agency&parent=environment-agency,home > Documents > see all research and statistics,환경,9,,,,,18,X
+124,Z00133,,Economic and Social Research Council,GB,영국,연구기관,,경제사회연구회,,ESRC,,https://www.ukri.org/about-us/esrc/who-we-are/publications/,home > news & events and publications / publications,산업.통상.중소기업,9,,,,,,X
+125,Z00134,,"Centre for Economic Policy research, UK",GB,영국,연구기관,,경제정책연구센터,,CEPR,,https://cepr.org/publications,home > publications,"금융, 산업",35,PDF다운로드 시 로그인 필요,,,,15,
+126,Z00135,,National Institute of Economic and Social Research,GB,영국,연구기관,,국립사회경제연구소,,NIESR,,https://www.niesr.ac.uk/publications,home > publications,금융,9,,,,,33,X
+127,Z00139,,Public Safety Canada ,CA,캐나다,정부기관,,공공안전청,,PSC,,https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/index-en.aspx,home > resource > publications and reports,공공질서 및 안전,9,,,,,,X
+128,Z00140,,Transport Canada,CA,캐나다,정부기관,,교통부,,,,https://tc.canada.ca/en/corporate-services/publications,home > about transport canada > publications,교통 및 물류,9,,,,,,X
+129,Z00141,,Office of the Superintendent of Financial Institutions Canada,CA,캐나다,정부기관,,금융기관감독청,,OSFI,,https://www.osfi-bsif.gc.ca/Eng/Pages/default.aspx,home > about OSFI > reports and Accountability,재정.세재.금융,9,,,,,,X
+130,Z00142,,Canadian Heritage,CA,캐나다,정부기관,,문화유산부,,,,https://www.canada.ca/en/canadian-heritage/corporate/publications.html,home > all related publications,일반공공행정,9,,,,,,X
+131,Z00143,,Department of Justice Government of Canada ,CA,캐나다,정부기관,,법무부,,,,https://www.justice.gc.ca/eng/rp-pr/index.html,home > about us > reports & publications,일반공공행정,9,,,,,,X
+132,Z00144,,Health Canada,CA,캐나다,정부기관,,보건부,,,,https://www.canada.ca/en/health-canada.html,,보건,9,,,,,,X
+133,Z00145,,Fisheries and Oceans Canada,CA,캐나다,정부기관,,수산해양부,,FOC,,https://www.dfo-mpo.gc.ca/index-eng.html,,해양수산,9,,,,,,X
+134,Z00146,Status of Women Canada,Women and Gender Equality Canada,CA,캐나다,정부기관,여성부,여성성평등부,,WAGE,,https://women-gender-equality.canada.ca/en/research.html,home > what we are doing > research,"사회복지
+일반공공행정",9,,,,,,X
+135,Z00147,,Public Health Agency of Canada,CA,캐나다,정부기관,,연방공공보건청,,PHAC,,https://www.canada.ca/en.html,,보건,9,,,,,,X
+136,Z00148,Indigenous and Northern Affairs Canada,Crown-Indigenous Relations and Northern Affairs Canada,CA,캐나다,정부기관,"원주민,북방부",왕실-원주민관계북방부,INAC,CIRNAC,,https://www.canada.ca/en.html,,일반공공행정,9,,,,,,X
+137,Z00149,,Department of Finance Canada,CA,캐나다,정부기관,,재무부,,,,https://www.canada.ca/en/department-finance/services/publications.html,,재정.세재.금융,9,,,,,,X
+138,Z00150,,Natural Resources Canada,CA,캐나다,정부기관,,천연자원부,,NRCan,,https://www.nrcan.gc.ca/home,,"지역개발
+환경",9,,,,,28,X
+139,Z00151,,Agriculture and Agri-Food Canada ,CA,캐나다,정부기관,,농업농산식품부 ,,,,https://agriculture.canada.ca/en,,농림,9,,,,,,X
+140,Z00152,,Bank of Canada,CA,캐나다,정부기관,,캐나다은행,,BoC,,https://www.bankofcanada.ca/publications/,home > publications,금융,9,,,,,,X
+141,Z00153,,Statistics Canada,CA,캐나다,정부기관,,통계청,,,,https://www150.statcan.gc.ca/n1/en/type/analysis?MM=1,home > analysis,"금융, 보건",35,,,,,181,
+142,Z00154,,"Innovation, Science and Economic Development Canada",CA,캐나다,정부기관,,"혁신, 과학 및 경제개발부",,ISED,,https://ised-isde.canada.ca/site/publications/en/publications,home > what we are doing > publications,과학기술,9,"자료 형식 부적합
+20년도 이후 업로드 안됨",,,,,X
+143,Z00155,,Environment and Climate Change Canada,CA,캐나다,정부기관,,환경부,,ECCC,,https://publications.gc.ca/site/eng/search/advancedSearch.html?st=2&ssti=1&_ssti=on&tst=&stop=1&stst=&abop=1&abst=&sop=1&sst=&daop=1&dast=%22environment+and+climate+change+canada%22&iiop=1&iist=&gcnop=1&gcnst=&dcnop=1&dcnst=&m=1&_m=on&s=1&_s=on&pf=0&lang=any&pylb=&pyub=&acqsd=&acqed=&hpp=25,home > what we are doing > publications,환경,17,,Environment Canada,,,,
+144,Z00156,,Australian Government Department of Defence,AT,호주,정부기관,,국방부,,ADOD,,https://www.defence.gov.au/,,국방,9,,,,,,X
+145,Z00157,,Australian Government Department of Communications and the Arts,AT,호주,정부기관,,호주 커뮤니케이션 예술부처,,,,https://www.arts.gov.au/publications,home > publications,문화,9,"자료 형식 부적합
+장기간 업로드 안됨",,,,,X
+146,Z00158,,Australian Government Attorney-General's Department,AT,호주,정부기관,,법무부,,AGD,,"https://www.ag.gov.au/rights-and-protections/publications
+https://www.ag.gov.au/industrial-relations/publications
+https://www.ag.gov.au/legal-system/publications
+https://www.ag.gov.au/crime/publications
+https://www.ag.gov.au/national-security/publications
+https://www.ag.gov.au/integrity/publications
+https://www.ag.gov.au/international-relations/publications","home > rights-and-protections/publications
+home > industrial-relations/publications
+home > legal-system/publications
+home > crime/publications
+home > national-security/publications
+home > integrity/publications
+home > international-relations/publications
+",일반공공행정,9,장기간 업로드 안됨,,,,1,X
+147,Z00159,Australian Government Department of Health,Australian Government Department of Health and Aged Care,AT,호주,정부기관,보건부,보건노인돌봄부,,DoHAC,,https://www.health.gov.au/initiatives-and-programs,home > initiatives and programs,보건,9,장기간 업로드 안됨,"Department of Health, GOV.AUS",,,82,X
+148,Z00160,,"Australian Government Department of Industry, Innovation and Science",AT,호주,정부기관,,산업과학부,,DIIS,,https://www.industry.gov.au/topic/data-and-publications-0,home > publications,과학기술,9,,,,,,X
+149,Z00161,,Australian Government Department of the Environment and Energy,AT,호주,정부기관,,에너지환경부,,,,https://www.awe.gov.au/,,"환경
+산업.통상.중소기업",9,,,,,,X
+150,Z00162,,Australian Government Department of Foreign Affairs and Trade,AT,호주,정부기관,,외교통상부,,ADFAT,,https://www.dfat.gov.au/about-us/publications,home > about us > publications,"외교, 통상, 산업",17,,,,,13,
+151,Z00163,,Australian Government Department of Immigration and Border Protection,AT,호주,정부기관,,이민성,,,,https://www.homeaffairs.gov.au/reports-and-publications/reports,home > reports and publications > reports,일반공공행정,9,,,,,,X
+152,Z00164,,Australian Government Department of Human Services,AT,호주,정부기관,,인적서비스부,,,,https://www.servicesaustralia.gov.au/,,사회복지,9,,,,,,X
+153,Z00165,,Australian Government The Treasury,AT,호주,정부기관,,재무부,,,,https://treasury.gov.au/publication,home > publications,"금융, 세재, 재정",17,,,,,9,
+154,Z00166,,Australian Government Department of Finance,AT,호주,정부기관,,재정부,,,,https://www.finance.gov.au/publications,home > publications,"재정, 세재, 금융",9,,,,,,X
+155,Z00167,,Australian Government Department of the Prime Minister and Cabinet,AT,호주,정부기관,,총리내각부,,PM&C,,https://www.pmc.gov.au/resource-centre,home > resource centre,과학기술,17,,,,,2,
+156,Z00168,,Australian Institute of Family Studies,AT,호주,정부기관,,가족학연구소,,AIFS,,https://aifs.gov.au/publications/search?f%5B0%5D=bm_field_retired_publication%3Aorbm_field_retired_publication%3Afalse,home > publications > all publications,사회복지,9,,,,,10,X
+157,Z00169,"Australian Government Department of Agriculture, Water and the Environment","Australian Government Department of Agriculture, Fisheries and Forestry",AT,호주,정부기관,,농업수자원부환경부,ADAWE,DAFF,,https://www.awe.gov.au/about/publications/list,home > about us > publications ,"농림, 해양수산",9,"자료적으며 
+1년 주기의 업로드",,,,,X
+158,Z00170,,Bureau of Infrastructure Transport and Research Economics,AT,호주,정부기관,인프라 및 지역개발부,인프라교통연구경제국,,BITRE,,https://www.bitre.gov.au/publications,home > publications,지역개발,9,19년도 이후 자료 업로드 안함,,,,,X
+159,Z00171,,Australian Trade and Investment Commission,AT,호주,정부기관,,무역투자부,,Austrade,,https://www.austrade.gov.au/news/publications,home > news > publications,"산업, 통상, 중소기업",9,"통계자료, 프레젠테이션",,,,,X
+160,Z00172,,Australian Institute of Criminology,AT,호주,정부기관,,범죄학연구소,,AIC,,https://www.aic.gov.au/publications,home > publications,공공질서 및 안전,17,,,,,23,
+161,Z00173,,Australian Institute of Health and Welfare,AT,호주,정부기관,,보건복지연구소,,AIHW,,https://www.aihw.gov.au/reports-data,home > reports & data,보건,9,,,,,29,X
+162,Z00174,,Safe Work Australia,AT,호주,정부기관,,산업안전협회,,SWA,,https://www.safeworkaustralia.gov.au/resources-and-publications,home > resources and publications,"산업, 보건, 사회복지",9,,,,,1,X
+163,Z00175,,Australian Bureau of Statistics,AT,호주,정부기관,,통계청,,ABS,,https://www.abs.gov.au/statistics/research,home > statistics > research,"일반공공행정
+사회복지",9,,,,,,X
+164,Z00232,,Bureau of Ocean Energy Management,US,미국,정부기관,,해양에너지관리국,,BOEM,,"https://www.boem.gov/renewable-energy-research-completed-studies
+https://www.boem.gov/newsroom/library/science-notes
+https://www.boem.gov/marine-mineral-studies
+
+https://www.boem.gov/marine-minerals/marine-mineral-research-studies/marine-mineral-resource-evaluation-research","home > environment > environmental studies > completed studies
+home > newsroom > science notes
+home > marine mineral > marine mineral research & studies
+home > marine minerals > marine mineral research & studies > marine mineral resource evaluation research
+","환경, 해양수산",9,,,,,,X
+165,Z00233,,"Department for Exiting the European Union, GOV. UK",GB,영국,정부기관,,브렉시트부,,DExEU,,"https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-exiting-the-european-union&parent=department-for-exiting-the-european-union
+
+https://www.gov.uk/search/policy-papers-and-consultations?organisations%5B%5D=department-for-exiting-the-european-union&parent=department-for-exiting-the-european-union","home > document > see all research and statistics
+
+home > document > see all policy papers and consultations",외교,9,자료 형식 부적합,,,,,X
+166,Z00234,,UK Department for International Trade,GB,영국,정부기관,,국제무역부,,DIT,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-international-trade&parent=department-for-international-trade,home > document > see all research and statistics,통상,9,자료 많지만 단순통계자료 多,,,,,X
+167,Z00235,,UK Department for Business Energy and Industrial Strategy,GB,영국,정부기관,,기업에너지산업전략부,,BEIS,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-business-energy-and-industrial-strategy&parent=department-for-business-energy-and-industrial-strategy,home > document > see all research and statistics,"산업, 중소기업",17,,,,,2,
+168,Z00236,,Woodrow Wilson Center,US,미국,연구기관,,우드로윌슨센터,,,,https://www.wilsoncenter.org/insight-analysis,home > menu > insight & analysis,"외교, 환경",17,,Woodrow Wilson International Center,,,24,
+169,Z00238,,Parks Canada,CA,캐나다,정부기관,,캐나다 국립공원 관리청,,PC,,https://www.pc.gc.ca/en/agence-agency/bib-lib/rapports-reports,home > reports and statistics,문화,9,"자료 적음
+자료 형식 및 주제 부적합",,,,,X
+170,Z00239,,Industry Canada,CA,캐나다,정부기관,,산업부,,,,https://ised-isde.canada.ca/site/publications/en/publications,,산업.통상.중소기업,9,,,,,,X
+171,Z00240,,Australian Bureau of Agricultural and Resource Economics and Sciences,AT,호주,정부기관,,호주 농림수산부 산하 농업자원경제과학국,,ABARES,,https://www.awe.gov.au/abares/products,home > product,"농림, 해양수산",17,,,,,,
+172,Z00241,,Privy Council Office,CA,캐나다,정부기관,,추밀원,,PCO,,https://www.canada.ca/en/privy-council/corporate/reports-publications.html,,일반공공행정,9,,,,,,X
+173,Z00242,Aboriginal Affairs and Northern Development Canada,Crown-Indigenous Relations and Northern Affairs Canada,CA,캐나다,정부기관,"원주민문제,북방개발부",왕실-원주민관계북방부,AANDC,CIRNAC,,https://www.canada.ca/en/indigenous-northern-affairs.html,,"사회복지
+일반공공행정",9,,,,,,X
+174,Z00243,,Council of Economic Advisers,US,미국,정부기관,,미국 경제자문위원회,,CEA,,https://www.whitehouse.gov/cea/,home > briefing room,산업.통상.중소기업,9,,,,,,X
+175,Z00244,,Australian Government Department of Social Services,AT,호주,정부기관,,사회서비스부,,DSS,,https://www.dss.gov.au/,,사회복지,9,,,,,,X
+176,Z00245,,Council on Environmental Quality ,US,미국,정부기관,,대통령환경위원회,,CEQ,,https://www.whitehouse.gov/ceq/,home > briefing room,환경 ,9,,,,,,X
+177,Z00246,,Australian Government Department of Industry and Science,AT,호주,정부기관,,산업과학부,,,,https://www.industry.gov.au/topic/data-and-publications-0,home > publications,환경,9,,,,,7,X
+178,Z00247,,Office of National Drug Control Policy,US,미국,정부기관,,마약통제국,,ONDCP,,https://www.whitehousedrugpolicy.gov/about/index.html,home > briefing room,보건 ,9,,,,,,X
+179,Z00248,,Australian Government Department of Immigration and Citizenship,AT,호주,정부기관,,,,,,https://www.homeaffairs.gov.au/,home > keyword search ,일반공공행정 ,9,,,,,,X
+180,Z00249,,Foreign Policy In Focus,US,미국,연구기관,,미 외교정책포커스,,FPIF,,https://fpif.org/,,통일. 외교,9,,,,,,X
+181,Z00250,,Government of Canada Publications,CA,캐나다,정부기관,,정부간행물출판국,,,,https://www.canada.ca/en.html,,"일반공공행정
+사회복지",9,,,,,,X
+182,Z00251,Canadian Polar Commission,Polar Knowledge Canada,CA,캐나다,연구기관,캐나다 북극연구소,극지지식청,,POLAR,,http://www.polarcom.gc.ca/eng/content/publications,home > communicating > publication,과학기술,9,14년 이후 자료 업로드 안됨,,,,,X
+183,Z00252,,Polar Knowledge Canada,CA,캐나다,연구기관,,캐나다 극지지식청,,POLAR,,https://www.canada.ca/en/polar-knowledge/reports.html,home > what we are doing > report,과학기술,9,,,,,,X
+184,Z00253,,Canadian Food Inspection Agency,CA,캐나다,정부기관,,식품검역청,,CFIA,,https://inspection.canada.ca/science-and-research/our-research-and-publications/eng/1495210110540/1495210111055,home > what we are doing > all related science > our research and publications,농림,9,,,,,,X
+185,Z00254,,Australian Government Department of Communications,AT,호주,정부기관,,통신부,,,,https://www.infrastructure.gov.au/department/media/publications,home > the department > publications,통신,9,자료 형식 부적합,,,,,X
+186,Z00255,,"Australian Government Department of Families, Housing, Community Services and Indigenous Affairs",AT,호주,정부기관,,"가족, 주택 및 지역사회 서비스부",,FHCSIA,,https://www.dss.gov.au/about-the-department/publications-articles,home > about the department > publications & articles,사회복지,9,장기간 업로드 안됨,,,,,X
+187,Z00256,Infocomm Development Authority of Singapore,Infocomm Media Development Authority,SI,싱가포르,정부기관,인포컴 개발청,정보통신미디어개발청,IDA,IMDA,http://www.ida.gov.sg/,https://www.imda.gov.sg/,home > who we are > corporate publication ,과학기술,9,,"Infocomm Development Authority of Singapore, IDA Singapore",,,,X
+188,Z00257,,UK HM Revenue & Customs,GB,영국,정부기관,,관세청,,HMRC,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=hm-revenue-customs&parent=hm-revenue-customs,home > documents > see all research and statistics,"세재, 금융",17,,,,,,
+189,Z00258,,Office of the Parliamentary Budget Officer,CA,캐나다,정부기관,,국회예산실,,PBO,,https://www.pbo-dpb.gc.ca/en/publications--publications,home > publication,재정,17,,,,,22,
+190,Z00260,,U.S. Department of the Interior,US,미국,정부기관,,내무부,,,,https://www.doi.gov/,,"지역개발
+환경 ",9,,,,,,X
+191,Z00261,,"Australian Trade Commission, Austrade ",AT,호주,정부기관,,호주무역위원회,,,,https://www.austrade.gov.au/news/publications,home > news > publications,"산업, 통상, 중소기업",9,,,,,,X
+192,Z00262,,U.S. Department of Justice,US,미국,정부기관,,미 법무부,,DOJ,,https://www.justice.gov/publications,home > publications,일반공공행정,9,,U.S. Department of Justice,,,,X
+193,Z00263,,"Australian Government Department of Infrastructure, Regional Development and Cities Bureau of Infrastructure, Transport and Regional Economics",AT,호주,정부기관,,인프라교통지역경제부,,BITRE,,https://www.bitre.gov.au/publications,home > publications,지역개발,9,19년도 이후 자료 업로드 안함,,,,,X
+194,Z00264,,Indigenous Services Canada,CA,캐나다,정부기관,,원주민서비스부,,ISC,,https://publications.sac-isc.gc.ca/PubCBW/publication/catalog.aspx?l=E,home > what we are doing > all related publications,사회복지,9,자료 PDF 평균 분량 1~3장,,,,,X
+195,Z00265,,Australian Government Department of Home Affairs,AT,호주,정부기관,,내무부,,,,https://www.homeaffairs.gov.au/reports-and-publications/reports,home > reports & publications ,일반공공행정 ,9,,,,,,X
+196,Z00268,,"Department for Digital, Culture, Media & Sport",GB,영국,정부기관,,디지털문화미디어스포츠부,,DCMS,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-for-digital-culture-media-sport&parent=department-for-digital-culture-media-sport,home > document > see all research and statistics,문화체육관광,9,,,,,,X
+197,Z00269,"Ministry of Housing, Communities & Local Government, GOV. UK ","UK Ministry of Housing, Communities and Local Government",GB,영국,정부기관,,"주택, 지역사회 및 지방자치부",,MHCLG,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=ministry-of-housing-communities-and-local-government&parent=ministry-of-housing-communities-and-local-government,home > document > see all research and statistics,지역개발,9,,,,,,X
+198,Z00270,"Department of Health and Social Care, GOV.UK",Department of Health and Social Care,GB,영국,정부기관,,보건사회복지부,,DHSC,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=department-of-health-and-social-care&parent=department-of-health-and-social-care,home > document > see all research and statistics,보건,9,,,,,,X
+199,Z00282,,Bureau of Infrastructure Transport and Research Economics,AT,호주,정부기관,인프라교통지역경제부,인프라교통연구경제국,,BITRE,,https://www.bitre.gov.au/publications,home > publications,지역개발,9,19년도 이후 자료 업로드 안함,,,,,X
+200,Z00283,,"Australian Government, Department of Agriculture",AT,호주,정부기관,,,,,,https://www.awe.gov.au/,,농림 ,9,,,,,,X
+201,Z00284,,"Australian Government, Department of Infrastructure, Transport, Regional Development and Communications, Bureau of Infrastructure, Transport and Regional Economics",AT,호주,정부기관,,인프라교통지역개발커뮤니케이션부,,,,https://www.infrastructure.gov.au/department/media/publications,home > department > publications,교통,9,자료 형식 부적합,,,,,X
+202,Z00285,,Australian Government Department of Industry Science Energy and Resources,AT,호주,정부기관,,산업과학에너지자원부,,DISER,,https://www.industry.gov.au/topic/data-and-publications-0,home > publications,과학기술,9,,,,,,X
+203,Z00286,,Services Australia,AT,호주,정부기관,,복지사업부,,,,https://www.servicesaustralia.gov.au/,,사회복지,9,,Department of Human Services,,,,X
+204,Z00287,,Norwegian Institute of International Affairs,NO,노르웨이,연구기관,,노르웨이 국제문제연구소,,NUPI,,https://www.nupi.no/nupi_eng/Publications,home > publications,"국방, 외교",9,,Norsk utenrikspolitisk institutt,,,18,X
+205,Z00288,,UK Cabinet Office,GB,영국,정부기관,,,,,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=cabinet-office&parent=cabinet-office,home > document > see all research and statistics,일반공공행정,9,,,,,,X
+206,Z00289,,"Australian Government, Department of Infrastructure, Transport, Regional Development and Communications",AT,호주,정부기관,,인프라교통지역개발커뮤니케이션부,,,,https://www.infrastructure.gov.au/department/media/publications,home > department > publications,교통,9,자료 형식 부적합,,,,,X
+207,Z00290,,Women and Gender Equality Canada,CA,캐나다,정부기관,여성·성평등부,여성성평등부,,WAGE,,https://women-gender-equality.canada.ca/en/research.html,home > What we are doing > all related research,사회복지,9,17년도 이후로 자료 업로드 안됨,,,,,X
+208,Z00291,,Chatham House,GB,영국,연구기관,,"왕립국제문제연구소, 채텀 하우스",,RIIA,,https://www.chathamhouse.org/publications/international-affairs-journal,home > publications,과학기술,9,,Chatham House,,,,X
+209,Z00292,,European Council on Foreign Relations,GB,영국,연구기관,,유럽외교협의회,,ECFR,,https://ecfr.eu/publications/,home > analysis > publications,외교,9,,,,,39,X
+210,Z00293,,International Institution for Strategic Studies,GB,영국,연구기관,,국제전략문제연구소,,IISS,,https://www.iiss.org/blogs/research-paper,home > what we do > research papers,"국방, 외교",17,,,,,틀린 이름,
+211,Z00295,"UK Foreign, Commonwealth & Development Office","UK Foreign, Commonwealth & Development Office",GB,영국,정부기관,외교부,외교영연방개발부,,FCDO,,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=foreign-commonwealth-development-office&parent=foreign-commonwealth-development-office,home > document > see all research and statistics,외교,17,,,,,,
+212,Z00296,Public Health England,UK Health Security Agency,GB,영국,정부기관,공공보건국,영국보건안전청,PHE,UKHSA,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=public-health-england&parent=public-health-england,https://www.gov.uk/search/research-and-statistics?organisations%5B%5D=uk-health-security-agency&parent=uk-health-security-agency,home > document > see all research and statistics,보건,17,,,,,,
+213,Z00298,,"Australian Government Department of Education, Skills and Employment",AT,호주,정부기관,,교육기술고용부,,DESE,,https://www.dese.gov.au/,,"사회복지
+일반공공행정",9,,,,,,X
+214,Z00300,,European Central Bank,EU,유럽연합,국제기구,,유럽중앙은행,,ECB,,https://www.ecb.europa.eu/pub/html/index.en.html,,,9,,,,,151,X
+215,Z00301,,European Environment Agency,EU,유럽연합,국제기구,,유럽환경청,,EEA,,https://www.eea.europa.eu/en/analysis/publications,,,9,,,,,12,X
+216,Z00302,,Australian Institute of Family Studies,AT,호주,정부기관,,,,,,https://aifs.gov.au/publications/search?f%5B0%5D=bm_field_retired_publication%3Aorbm_field_retired_publication%3Afalse,home > publications,사회복지,9,,,,,,X
+217,Z00303,,Eurofound,EU,유럽연합,국제기구,,,,,,https://www.eurofound.europa.eu/en/publications,,,9,,,,,27,X
+218,Z00304,,Urban Institute,US,미국,연구기관,,어반 인스티튜트,,UI,,https://www.urban.org/,home > research ,사회복지 ,35,,,,,183,
+219,Z00305,,National Security Agency,US,미국,정부기관,,미국 국가안보국,,NSA,,https://www.nsa.gov/Press-Room/Press-Releases-Statements/,home > press room ,과학기술,9,,,,,5,X
+220,Z00306,,U.S. International Development Finance Corporation,US,미국,정부기관,,국제개발금융공사,,DFC,,https://www.dfc.gov/,,"재정, 세재, 금융",9,,,,,,X
+221,Z00307,,Council on Foreign Relations,US,미국,연구기관,,외교협의회,,CFR,,https://www.cfr.org/research-analysis,home > research & analysis,외교,9,,,,,,X
+222,Z00308,,Observer Research Foundation,IN,인도,연구기관,,옵저버연구재단,,ORF,,https://www.orfonline.org/research/,home > research,"외교, 국방",35,,,,,158,
+223,Z00309,,Centre for European Policy Studies,BE,벨기에,연구기관,,유럽정책연구센터,,CEPS,,https://www.ceps.eu/ceps-publications/,home > publications,금융,9,,,,,69,X
+224,Z00310,,Netherlands Institute of International Relations,NL,네덜란드,연구기관,,네덜란드 국제관계연구소,,Clingendael,,https://www.clingendael.org/publications,home > research > all publications,외교,9,,,,,52,X
+225,Z00311,,Italian Institute for International Political Studies,IT,이탈리아,연구기관,,이탈리아 국제정치연구소,,ISPI,,https://www.ispionline.it/en/pubblicazioni,home > publications,외교,9,,,,,9,X
+226,Z00312,,Elcano Royal Institute,SP,스페인,연구기관,,엘카노왕립연구소,,ERI,,https://www.realinstitutoelcano.org/en/?s=PUBLICATIONS,home > search,환경,9,,,,,8,X
+227,Z00313,,Centre for International Governance Innovation,CA,캐나다,연구기관,,국제거버넌스혁신센터,,CIGI,,https://www.cigionline.org/publications/,home > publications,금융,9,,,,,54,X
+228,Z00314,,Danish Institute for International Studies,DK,덴마크,연구기관,,덴마크 국제문제연구소,,DIIS,,https://www.diis.dk/en/research,home > research > all publications,외교,9,,,,,52,X
+229,Z00315,,Barcelona Centre for International Affairs,EU,유럽연합,연구기관,,바르셀로나 국제정치센터,,CIDOB,,https://www.cidob.org/en/publications,home > publications,외교,9,스페인어 자료 多,,,,23,X
+230,Z00316,,Law Library of Congress,US,미국,정부기관,,미의회도서관,,LLC,,https://www.loc.gov/collections/,home > collections,일반공공행정,9,,,,,,X
+231,Z00317,,Institute for Defence Studies and Analyses,IN,인도,연구기관,, 인도 국방연구원 ,,IDSA,,https://www.idsa.in/,home > asian strategic review,국방 ,9,,,,,75,X
+232,Z00318,,Belfer Center for Science and International Affairs,US,미국,연구기관,,(미국 하버드대학교) 벨퍼국제관계센,,BCSIA,,"https://www.belfercenter.org/research/publication-type/reports-papers
+
+https://www.belfercenter.org/research/publication-type/policybriefs-testimony",home > research > publications > reports / policy brief,환경,9,,,,,30,X
+233,Z00319,,The London School of Economics and Political Science IDEAS,GB,영국,연구기관,,(런던정경대학 부설) 국제관계및외교전략연구소,,LSE IDEAS,,https://www.lse.ac.uk/ideas/publications,home > publications,"외교, 국방",9,,,,,7,X
+234,Z00320,,Atlantic Council,US,미국,연구기관,,대서양협의회,,AC,,https://www.atlanticcouncil.org/in-depth-research-reports/,home > research & analysis > issue brief and reports,"외교, 국방",35,,,,,75,
+235,Z00321,,Istituto Affari Internazionali,IT,이탈리아,연구기관,,이탈리아 국제문제연구소,,IAI,,https://www.iai.it/en/pubblicazioni/lista/all/all,home > publications,외교,35,,,,,114,
+236,Z00322,,Bruegel,BE,벨기에,연구기관,,브뤼겔,,,,https://www.bruegel.org/publications/,home > publications,환경,9,,,,,76,X
+237,Z00323,,RAND Corporation,US,미국,연구기관,,랜드 연구소,,,,https://www.rand.org/pubs.html,hoem > Latest Reports,"사회복지 
+보건",35,,,,,362,
+238,Z00324,,Center for American Progress,US,미국,연구기관,,미국진보센터,,CAP,,https://www.americanprogress.org/issues/,home > issue > see all,"사회복지, 환경",9,,,,,6,X
+239,Z00325,Faser Institute,Fraser Institute,CA,캐나다,연구기관,프레저 연구소,프레이저 연구소,,FI,,https://www.fraserinstitute.org/research,home > research,"재정, 세제, 사회복지, 교육",35,,,,,82,
+240,Z00326,,China Institutes of Contemporary International Relations,CN,중국,연구기관,,중국현대국제관계연구소,,CICIR,,http://www.cicir.ac.cn/NEW/en-us/public.html,,통일. 외교,9,,,,,,X
+241,Z00327,,Hellenic Foundation for European and Foreign Policy,GR,그리스,연구기관,,헬레나재단,,ELIAMEP,,https://www.eliamep.gr/en/publications/,home > publications,외교,17,,,,,18,
+242,Z00330,,Centre for Strategic Studies,NZ,뉴질랜드,연구기관,,빅토리아대학 전략센터,,CSS,,https://www.csis.org/analysis,home > section > analysis,"국방, 환경",35,,,,,,
+243,Z00331,,Chung-Hua Institution for Economic Research,TW,대만,연구기관,,중화경제연구원,,CIER,,https://www.ifw-kiel.de/publications/?q=*&tx_solr%5Bsort%5D=date+desc,home > publications,"통상, 산업",9,,,,,,X
+244,Z00332,,Copenhagen Consensus Center,DK,덴마크,연구기관,,코펜하겐 컨센서스 센터,,CCC,,https://www.copenhagenconsensus.com/research-topics,home > research,"환경, 보건, 사회복지",9,,,,,,X
+245,Z00334,Carnegie Moscow Center,Carnegie Russia Eurasia Center,RU,러시아,연구기관,카네기재단 국제평화재단(모스코바),카네기 러시아유라시아센터 (베를린),CMC,CREC,https://carnegiemoscow.org/publications/,https://carnegieendowment.org/russia-eurasia,home > publications,"외교, 국방",9,"testimony, commentary, article",,,,60,X
+246,Z00335,,Moscow State Institute of International Relations,RU,러시아,연구기관,,모스크바 국립 국제 관계 대학교,,MGIMO,,https://english.mgimo.ru/,,교육,9,,,,,,X
+247,Z00337,,Lithuanian Free Market Institute,LT,리투아니아,연구기관,,리투아니아 자유시장 연구소,,LFMI,,https://en.llri.lt/economic-policy-areas,home > economic policy,"산업, 통상, 중소기업",9,,,,,,X
+248,Z00338,,Centre for Geopolitical Studies,LT,리투아니아,연구기관,,지정학센터,,CGS,,http://cgsrs.org/publications,home > publications,환경,9,,,,,,X
+249,Z00339,,Centre for Public Policy Studies,MY,말레이시아,연구기관,,공공정책연구소,,CPPS,,http://cpps.org.my/publication/,home > publications,일반공공행정,9,"chairman articles, commentary",,,,,X
+250,Z00340,,Asian Strategy and Leadership Institute,MY,말레이시아,연구기관,,아시아 전략 리더십 연구소,,ASLI,,https://www.asli.com.my/,,산업.통상.중소기업,9,,,,,,X
+251,Z00341,,Institute of Strategic and International Studies,MY,말레이시아,연구기관,,말레이시아 국제전략연구소,,ISIS,,"https://www.isis.org.my/policy-briefs/#
+https://www.isis.org.my/all-book-journal/
+https://www.isis.org.my/isis-focus-all/
+https://www.isis.org.my/apr-report/
+https://www.isis.org.my/annual-reports/",home > publications,외교,9,,,,,,X
+252,Z00342,,Center for Democracy and Human Rights,ME,몬테네그로,연구기관,,민주주의 인권센터,,CDHR,,https://www.usaid.gov/reports-and-data,home > reports & data,사회복지 ,9,,,,,,X
+253,Z00344,,Asia Society Policy Institute,US,미국,연구기관,,아시아 소사이어티 정책연구소,,ASPI,,https://asiasociety.org/policy-institute/publications,home > publications,"사회복지, 외교",9,"article, interview",,,,5,X
+254,Z00345,,Hudson Institute,US,미국,연구기관,,허드슨 연구소,,HI,,https://www.hudson.org/research,home > research,금융,9,,,,,60,X
+255,Z00346,,National Bureau of Economic Research,US,미국,연구기관,,전미경제연구소,,NBER,,https://www.nber.org/research,home > research > working paper,"금융, 사회복지, 통상, 중소기업, 교육",35,,,,,4,
+256,Z00347,,ISEAS - Yusof Ishak Institute,US,미국,연구기관,, ISEAS-유소프 이샥 연구소,,,,https://bookshop.iseas.edu.sg/,home > journal,국방,9,,,,,,X
+257,Z00348,,Chicago Council on Global Affairs,US,미국,연구기관,,시카고 국제문제연구소,,CCGA,,https://www.thechicagocouncil.org/research,home > research > all research,"환경, 외교",9,,,,,21,X
+258,Z00349,,Inter-American Dialogue,US,미국,연구기관,,미주간대화,,IAD,,https://www.thedialogue.org/analysis/,home > analysis,외교,9,,,,,6,X
+259,Z00350,,World Resources Institute,US,미국,연구기관,,세계자원연구소,,WRI,,https://www.wri.org/resources,home > research,환경,17,,,,,47,
+260,Z00351,,German Marshall Fund of the United States,US,미국,연구기관,,독일마셜기금,,GMF,,https://www.gmfus.org/,,통일. 외교,9,,,,,34,X
+261,Z00352,,Acton Institute,US,미국,연구기관,,액튼 신앙 및 자유연구소,,,,https://www.acton.org/pub/acton-notes,hoem > resources > action notes,교육,35,,,,,,
+262,Z00353,,New America Foundation,US,미국,연구기관,,뉴아메리카재단,,NAF,,https://www.newamerica.org/publications/,home > publications,"사회복지, 교육",17,article,,,,,
+263,Z00354,,Center for Global Development,US,미국,연구기관,,글로벌개발센터,,CGD,,https://www.cgdev.org/commentary-and-analysis,home > commentary & analysis,"환경, 과학기술",35,,,,,34,
+264,Z00356,,International Crisis Group,BE,벨기에,연구기관,,국제위기그룹,,ICG,,https://www.crisisgroup.org/latest-updates/reports-and-briefings,home > how we work > reports & briefings,"외교, 환경",9,,,,,28,X
+265,Z00357,,Wilfried Martens Centre for European Studies,BE,벨기에,연구기관,,빌프리트 마르턴스 유럽연구센터,,WMCES,,https://www.martenscentre.eu/publication/,home > publications,"외교, 과학기술",9,,,,,25,X
+266,Z00358,,Royal Institute for International Relations,BE,벨기에,연구기관,,왕립 국제관계연구소,,RIIR,,https://www.euromesco.net/publications/,home > publications,"환경, 외교",17,,,,,28,
+267,Z00359,,European Centre for International Political Economy,BE,벨기에,연구기관,,유럽 국제정치경제센터,,ECIPE,,https://ecipe.org/research/,home > research,"환경, 외교, 통상",9,article,,,,26,X
+268,Z00360,,Gulf Research Center,SA,사우디아라비아,연구기관,,중동 걸프연구센터,,GRC,,https://www.grc.net/,접속X,접속 X,9,,,,,1,X
+269,Z00361,,King Abdullah Petroleum Studies and Research Center,SA,사우디아라비아,연구기관,,킹 압둘라 석유 연구 및 연구 센터,,KAPSARC,,https://www.kapsarc.org/research/publications/,home > research > publications,환경,17,commentary,,,,77,
+270,Z00365,,Timbro,SW,스웨덴,연구기관,,팀브로,,,,https://timbro.se/in-english/publications/,home > about us > publications,"금융, 통상, 산업",9,,,,,,X
+271,Z00366,,World Economic Forum,CH,스위스,연구기관,,세계경제포럼,,WEF,,https://www.weforum.org/reports/,home > menu > reports,"과학기술, 금융, 통상",35,,,,,108,
+272,Z00367,,Foundation for Analysis and Social Studies,SP,스페인,연구기관,,FAES 재단,,FAES,,https://fundacionfaes.org/publicaciones-de-faes/,,사회복지,9,,,,,,X
+273,Z00371,,International Institute for Strategic Studies,GB,영국,연구기관,,국제전략문제연구소,,IISS,,https://www.iiss.org/blogs/research-paper,home > what we do > research papers,"국방, 외교",17,,,,,13,
+274,Z00372,,Amnesty International,GB,영국,연구기관,,국제앰네스티,,AI,,https://www.amnesty.org/en/research/,home > latest > research,"국방, 외교",17,"action, article, blog, campain, gallery, newsletter, open letter, press release, questions and answers, story, urgen action, video
+(PDF자료없음 / 뉴스, 분량 1~2page 제외)",,,,111,
+275,Z00373,,Institute of Economic Affairs,GB,영국,연구기관,,경제문제연구소,,IEA,,https://iea.org.uk/category/publications/research/,home > research,"과학기술, 보건",9,"economic affairs, ea magazine, brexit unit
+(PDF자료없음)",,,,11,X
+276,Z00374,,Demos,GB,영국,연구기관,,데모스,,,,https://demos.co.uk/publications/,home > reports,사회복지,9,,,,,31,X
+277,Z00375,,Policy Exchange,GB,영국,연구기관,,폴리시 익스체인지,,PE,,https://policyexchange.org.uk/publications-archive/,home > publications > archive,"외교, 사회복지",17,,,,,52,
+278,Z00376,,International Institute for Environment and Development,GB,영국,연구기관,,환경개발국제연구소,,,,https://pubs.iied.org/,home > publications > 각 테마별 설정,환경,9,,,,,5,X
+279,Z00377,,Center for Strategic Studies,JO,요르단,연구기관,,전략문제연구소,,,,https://www.csis.org/analysis?,home > sections > analysis,"외교, 국방",35,"Congressional Testimony, Blog Post
+(PDF자료없음)",,,,,
+280,Z00379,,Begin-Sadat Center for Strategic Studies,IL,이스라엘,연구기관,, 이스라엘 전략문제연구소,,,,"https://besacenter.org/category/perspectives-papers/#
+
+https://besacenter.org/category/mideast-security-and-policy-studies/",home > publications,"국방, 외교",9,"podcast, video, media
+(PDF자료없음)",,,,23,X
+281,Z00380,,Fondazione Eni Enrico Mattei,IT,이탈리아,연구기관,,폰다치오네 에니 엔리코 마테이 (FEEM),,FEEM,,https://www.feem.it/en/publications/,Home > Publications,환경,17,"Percorsi, Equilibri
+(스페인어)",,,,5,
+282,Z00381,,Indian Council for Research on International Economic Relations,IN,인도,연구기관,,인도국제경제관계연구소,,ICRIER,,"http://icrier.org/publications/books/
+http://icrier.org/publications/workingpapers/
+http://icrier.org/publications/policy-briefs/
+http://icrier.org/publications/reports/",home > publications,"산업, 통상, 중소기업",9,"other, newsletter, bulletins
+(PDF자료없음 / 외부간행물 접속X)",,,,16,X
+283,Z00382,,Energy and Resources Institute,IN,인도,연구기관,,에너지자원연구소,,TERI,,https://www.teriin.org/publications,home > publications,환경,9,articles,,,,18,X
+284,Z00383,,Development Alternatives,IN,인도,연구기관,,대안개발센터,,DA,,https://www.devalt.org/Publication_ViewAll.aspx,home > know us > publications,환경,9,19년도 이후 자료 업로드 안됨,,,,,X
+285,Z00384,,Delhi Policy Group,IN,인도,연구기관,,델리 정책그룹,,DPG,,"https://www.delhipolicygroup.org/publication/policy-reports.html
+https://www.delhipolicygroup.org/publication/policy-briefs.html
+https://www.delhipolicygroup.org/publication/policy-papers.html
+https://www.delhipolicygroup.org/publication/policy-note.html",home > publications,"통상, 외교",9,"obituary, opinion",,,,31,X
+286,Z00385,,Centre for Policy Research,IN,인도,연구기관,,인도 정책연구센터,,CPR,,"https://cprindia.org/policy-briefs-reports/#
+
+https://cprindia.org/working-papers/",home > publications,"환경, 외교",17,"opinion, commentary",,,,5,
+287,Z00386,,Chennai Centre for China Studies,IN,인도,연구기관,,첸나이 중국학센터,,CCCS,,https://www.c3sindia.org/publications/occasional-papers/,home > publications,외교,9,,,,,6,X
+288,Z00391,,Institute of International and Strategic Studies,CN,중국,연구기관,,국제전략연구소,,IISS,,https://www.iiss.org/blogs/research-paper,home > what we do > research papers,"외교, 국방",17,,,,,1,
+289,Z00392,,Our Hong Kong Foundation,CN,중국,연구기관,,우리의 홍콩 재단,,OKF,,https://www.ourhkfoundation.org.hk/en/reports/19,home > reports,보건,9,articles,,,,3,X
+290,Z00393,,Al Jazeera Center for Studies,QA,카타르,연구기관,,알자지라 연구소,,AJCS,,"https://studies.aljazeera.net/en/policy-briefs/archive
+
+https://studies.aljazeera.net/en/publications/archive","home > publications
+home > policy brief",외교,9,,,,,,X
+291,Z00394,,Institute for Research on Public Policy,CA,캐나다,연구기관,,공공정책연구소,,IRPP,,https://irpp.org/research/,home > research,"환경, 공공질서 및 안전",9,,,,,2,X
+292,Z00397,,Polish Institute of International Affairs,PL,폴란드,연구기관,,폴란드국제문제연구소,,PISM,,https://www.pism.pl/publications,home > publications,"외교, 환경",9,,,,,6,X
+293,Z00398,,Finnish Institute of International Affairs,FI,핀란드,연구기관,,핀란드 국제문제연구소,,FIIA,,https://www.fiia.fi/en/publications,home > publications,"외교, 국방",17,,,,,23,
+294,Z00399,,The Institute for Foreign Affairs and Trade,HU,헝가리,연구기관,,외교통상연구원,,IFAT,,https://www.euromesco.net/publications/,home > publications,외교,17,,,,,,
+295,Z00400,,Australian Institute for International Affairs,AT,호주,연구기관,,국제문제연구소,,AIIA,,https://www.internationalaffairs.org.au/publications/,home > menu > publications,외교,9,,,,,,X
+296,Z00401,,Centre for Independent Studies,AT,호주,연구기관,,독립연구센터,,CIS,,https://www.cis.org.au/research/,home > research,"환경, 통상",9,,,,,17,X
+297,Z00402,,Getulio Vargas Foundation,BR,브라질,연구기관,,제툴리우바르가스재단,,FGV,,https://portal.fgv.br/en/research-theses-publications,home > research > publications,일반공공행정,9,자료 다운로드 시 로그인 필요,,,,16,X
+298,Z00403,,Armando Alvares Penteado Foundation,BR,브라질,연구기관,,아르만도 알바스 펜티아토재단,,FAAP,,https://www.faap.br/,,교육,9,,,,,,X
+299,Z00404,,Centre for International Studies,IT,이탈리아,연구기관,,국제학센터,,CeSI,,"https://www.cesi.it/energy-journal/
+https://www.cesi.it/publications/
+https://www.cesi.it/technical-papers/
+https://www.cesi.it/reports/",home > idea & publications,과학기술,9,,,,,,X
+300,Z00405,,Pangoal Institution,CN,중국,연구기관,,판구 싱크탱크,,,,http://en.pangoal.cn/,접속X,접속 X,9,,,,,,X
+301,Z00406,,Chongyang Institute for Financial Studies,CN,중국,연구기관,,충양 재정연구원,,RDCY,,"http://en.rdcy.org/indexen/index/more/cid/790.html
+
+http://en.rdcy.org/indexen/index/more/cid/789.html",home > publications,"환경, 금융",9,,,,,,X
+302,Z00407,,China Institute of International Studies,CN,중국,연구기관,,중국 국제문제연구소,,CIIS,,https://www.ciis.org.cn/gjwtyj/ywqk/,,교육,9,,,,,,X
+303,Z00408,,Euro‑Mediterranean Center on Climate Change,IT,이탈리아,연구기관,,유럽지중해 기후변화센터,,CMCC,,https://www.cmcc.it/publications-type/technical-notes,home > menu > publications,환경,9,,,,,,X
+304,Z00409,,Ravand Institute for Economic and International Studies,IR,이란,연구기관,,라반드 경제국제문제연구소,,,,https://onthinktanks.org/publications/,home > menu > resource > publications,일반공공행정,9,,,,,,X
+305,Z00410,,Israel-Palestine: Creative Regional Initiatives,IL,이스라엘,연구기관,,이스라엘·팔레스타인 연구·정보센터,,IPCRI,,https://www.ipcri.org/publications,접속X,접속 X,9,,,,,,X
+306,Z00411,,Centre for Liberal Strategies,BG,불가리아,연구기관,,자유주의전략연구소,,CLS,,링크를 찾을 수 없음 ,,링크를 찾을 수 없음 ,9,,,,,,X
+307,Z00412,,Congressional Research Service,US,미국,정부기관,,미국 의회조사국,,CRS,,https://crsreports.congress.gov/search/#/?termsToSearch=&orderBy=Date,home > search,외교,35,,,,,138,
+308,Z00447,,Kiel Institute for the World Economy,GE,독일,연구기관,,킬 세계경제연구소,,IfW Kiel,,https://www.ifw-kiel.de/publications/,,,,,,,,47,
+309,Z00583,,Mercatus Center,US,미국,연구기관,,메르카투스 센터,,,,https://www.mercatus.org/research,home > research > research library,"과학기술, 통상, 금융",35,testimony,,,,37,
+310,Z00703,,UK Intellectual Property Office,GB,영국,정부기관,,영국 지식재산청,,UKIPO,,https://www.gov.uk/government/organisations/intellectual-property-office,,,,,,,,49,
+311,Z00704,,European Union Intellectual Property Office,SP,스페인,정부기관,,유럽연합 지적재산권 사무소,,EUIPO,,https://www.euipo.europa.eu/en,,,,,,,,3,
+312,신규,,Centro Elettrotecnico Sperimentale Italiano,IT,이탈리아,연구기관,,이탈리아 전력연구소,,CESI,,https://www.cesi.it/publications/,,,,,,,,1,
+313,신규,DEFENSE TECTICAL INFORMATION CENTER,Defense Technical Information Center,US,미국,정부기관,,미국 국방기술정보센터,,DTIC,,https://discover.dtic.mil/,홈 > Dimensions,,,,,,,31,
+314,신규,,European Artificial Intelligence Office,EU,유럽연합,정부기관,,유럽 인공지능 사무소,,EU AI Office,,https://digital-strategy.ec.europa.eu/en/policies/ai-office,,,,,,,,37,
+315,신규,,U.S. Copyright Office,US,미국,정부기관,,미국 저작권청,,USCO,,https://www.copyright.gov/,,,,,,,,,
+316,,,Americans for the Arts,,미국,연구기관,,미국인을 위한 예술,,AFTA,,https://www.americansforthearts.org/research,home > research,문화체육관광,9,장기간 업로드 안됨,,,,,X
+317,,,International Intellectual Property Institute,,미국,연구기관,,국제지적재산협회,,IIPI,,"https://iipi.org/category/resources/how-to-guides/
+
+https://iipi.org/category/resources/enforcement-studies/",home > resources,일반공공행정,9,,,,,,X
